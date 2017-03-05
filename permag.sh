@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-cd $HOME/permag.ir
+cd $HOME/reborn
 
 install() {
 	    cd tg
